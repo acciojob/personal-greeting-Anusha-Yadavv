@@ -9,7 +9,6 @@ function Greeting() {
 
   return (
     <div>
-      <h1>Personalized Greeting</h1>
       <label htmlFor="nameInput">Enter your name:</label>
       <input 
         id="nameInput" 
