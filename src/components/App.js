@@ -1,8 +1,7 @@
 
-import React from "react";
 import './../styles/App.css';
-import React, {useState} from "react";
-import Greeting from './Greeting';
+import React from "react";
+import Greeting from './Greeting.js';
 
 const App = () => {
   
